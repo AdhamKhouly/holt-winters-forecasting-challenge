@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata
+.Spotlight-V100
+.Trashes
+._*
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore CSV backups or temporary files
+*.csv~
+*.bak
