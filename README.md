@@ -27,4 +27,4 @@ This project demonstrates the application of the Holt-Winters (Triple Exponentia
 1. Clone the repository:
    ```bash
    git clone https://github.com/AdhamKhouly/holt-winters-forecasting-challenge.git
-   cd holt-winters-forecasting
+   cd holt-winters-forecasting-challenge
